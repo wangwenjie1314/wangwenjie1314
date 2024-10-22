@@ -15,5 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+👋 Hi, I’m @wangwenjie
+
+👀 I’m interested in FE
+
+🌱 I’m currently learning English
+
+🤔 I’m looking to collaborate on 'Upwork'
+
+📫 How to reach me wangwenjie2947089[at]gmail.com
+
+👇 My Skills Below
+
+![image](https://github.com/user-attachments/assets/c4f31086-460f-486c-bedf-3714b7853c39)
+
+
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wangwenjie1314)](https://github.com/wangwenjie1314/webQd)
