@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 🤔 I’m looking to collaborate on 'Upwork'
 
-📫 How to reach me wangwenjie2947089[at]gmail.com
+📫 How to reach me wangwenjie2947089@gmail.com
 
 👇 My Skills Below
 
